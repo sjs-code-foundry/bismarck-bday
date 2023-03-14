@@ -1,0 +1,114 @@
+body {
+    text-align: center;
+    font-family: 'Germania One', cursive;
+    background: linear-gradient(#000000, #dd0000, #ffce00);
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0 0 1px black;
+}
+
+#bff-img {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid #000000;
+    margin-bottom: 10px;
+}
+
+#bday-age {
+    background: #000000;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+
+#bday-date {
+    margin: 0;
+    background: #000000;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+#gift-img-defend {
+    background-position: center;
+}
+
+#gift-img-kms {
+    background-position: center;
+}
+
+#gift-img-legacy {
+    height: 200px;
+}
+
+.gift-img {
+    margin: 20px auto;
+    max-width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("img/gift-cover.jpg");
+    background-size: cover;
+}
+
+#gift-img-unity:hover {
+    background-image: url("img/unity.gif");
+}
+
+#gift-img-defend:hover {
+    background-image: url("img/defend.gif");
+}
+
+#gift-img-kms:hover {
+    background-image: url("img/kms.gif");
+}
+
+#gift-img-hard:hover {
+    background-image: url("img/hard.gif");
+}
+
+#gift-img-legacy:hover {
+    background-image: url("img/legacy.gif");
+}
+
+#footer {
+    color: #000000;
+    font-style: italic;
+    width: 400px;
+    margin: 40px auto 20px;
+}
+
+a {
+    color: #000000;
+}
+
+/* 
+Add the footer paragraph according to the design. 
+Configure the anchor tag to open the link in a new tab.
+Forgotten how to do it? Google it! 
+
+Link: 
+https://scrimba.com/learn/htmlandcss
+
+Text:
+Want to create your own Birthday GIFt site? Take this HTML & CSS course.
+*/
