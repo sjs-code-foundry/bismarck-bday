@@ -66,28 +66,28 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("img/gift-cover.jpg");
+    background-image: url("https://github.com/sjs-code-foundry/bismarck-bday/blob/main/img/gift-cover.jpg?raw=true");
     background-size: cover;
 }
 
 #gift-img-unity:hover {
-    background-image: url("img/unity.gif");
+    background-image: url("https://github.com/sjs-code-foundry/bismarck-bday/blob/main/img/unity.gif?raw=true");
 }
 
 #gift-img-defend:hover {
-    background-image: url("img/defend.gif");
+    background-image: url("https://github.com/sjs-code-foundry/bismarck-bday/blob/main/img/defend.gif?raw=true");
 }
 
 #gift-img-kms:hover {
-    background-image: url("img/kms.gif");
+    background-image: url("https://github.com/sjs-code-foundry/bismarck-bday/blob/main/img/kms.gif?raw=true");
 }
 
 #gift-img-hard:hover {
-    background-image: url("img/hard.gif");
+    background-image: url("https://github.com/sjs-code-foundry/bismarck-bday/blob/main/img/hard.gif?raw=true");
 }
 
 #gift-img-legacy:hover {
-    background-image: url("img/legacy.gif");
+    background-image: url("https://github.com/sjs-code-foundry/bismarck-bday/blob/main/img/legacy.gif?raw=true");
 }
 
 #footer {
